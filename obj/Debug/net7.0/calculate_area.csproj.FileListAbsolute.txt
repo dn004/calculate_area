@@ -1,0 +1,15 @@
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.csproj.AssemblyReference.cache
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.AssemblyInfoInputs.cache
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.AssemblyInfo.cs
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\calculate_area\bin\Debug\net7.0\calculate_area.exe
+C:\Users\user\Documents\calculate_area\bin\Debug\net7.0\calculate_area.deps.json
+C:\Users\user\Documents\calculate_area\bin\Debug\net7.0\calculate_area.runtimeconfig.json
+C:\Users\user\Documents\calculate_area\bin\Debug\net7.0\calculate_area.dll
+C:\Users\user\Documents\calculate_area\bin\Debug\net7.0\calculate_area.pdb
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.dll
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\refint\calculate_area.dll
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.pdb
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\calculate_area.genruntimeconfig.cache
+C:\Users\user\Documents\calculate_area\obj\Debug\net7.0\ref\calculate_area.dll
